@@ -1,0 +1,1 @@
+game:getService("Players").LocalPlayer:Kick("Exploiting")
